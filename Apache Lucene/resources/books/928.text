@@ -1,0 +1,12 @@
+Structure and Interpretation of Computer Programs (SICP) is a textbook published in 1984 about general computer programming concepts from MIT Press written by Massachusetts Institute of Technology (MIT) professors Harold Abelson and Gerald Jay Sussman, with Julie Sussman. It was formerly used as the textbook of MIT introductory programming class and at other schools. Using a dialect of the Lisp programming language known as Scheme, the book explains core computer science concepts, including abstraction, recursion, interpreters and metalinguistic abstraction, and teaches modular programming. The program also introduces a practical implementation of the register machine concept, defining and developing an assembler for such a construct, which is used as a virtual machine for the implementation of interpreters and compilers in the book, and as a testbed for illustrating the implementation and effect of modifications to the evaluation mechanism. Working Scheme systems based on the design described in this book are quite common student projects.
+Content
+Using Scheme , a dialect of the Lisp programming language , the book explains core computer science concepts.
+The program also introduces a practical implementation of the register machine concept, defining and developing an assembler for such a construct, which is used as a virtual machine for the implementation of interpreters and compilers in the book, and as a testbed for illustrating the implementation and effect of modifications to the evaluation mechanism. Working Scheme systems based on the design described in this book are quite common student projects.
+Characters
+The book uses some fictional characters repeatedly:
+Ben Bitdiddle. He considerably predates this class, having been created by Steve Ward for use in problem sets for its predecessor, 6.031, in the 1970s. He has since appeared in a large number of other locations, including other classes at MIT and other institutions.[ citation needed ]
+Eva Lu Ator: the evaluator
+Louis Reasoner: the loose reasoner
+Alyssa P. Hacker: a Lisp hacker
+Cy D. Fect: A "reformed C programmer."
+Lem E. Tweakit: an irate user of Alyssa's interval arithmetic, enters p. 96.
